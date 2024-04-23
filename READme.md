@@ -1,6 +1,6 @@
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="45" width="45" /> there, I'm <a> YOur Jaanu.</a> </h1>
+         height="45" width="45" /> there, I'm <a> Janhavi Agrahari.</a> </h1>
 
 ## 👨‍💻  &nbsp;About Me 
 - 👀 I’m interested in new techonlogies like AIML, Web Development.
