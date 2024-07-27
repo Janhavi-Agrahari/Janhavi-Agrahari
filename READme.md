@@ -3,7 +3,7 @@
          height="45" width="45" /> there, I'm <a> Janhavi Agrahari.</a> </h1>
 
 ## 👨‍💻  &nbsp;About Me 
-- 👀 I’m interested in new techonlogies like AIML, Web Development.
+- 👀 I’m interested in new techonlogies like Web Development.
 - 📫 Email: janhaviagrahari936@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
